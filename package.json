@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@berufungirnpm/vel-impedit-nobis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,17 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/berufungirnpm/vel-impedit-nobis.git"
   },
   "dependencies": {
+    "@berufungirnpm/a-nulla-totam": "^1.0.0",
+    "@berufungirnpm/ab-fuga-facilis": "^1.0.0",
+    "@berufungirnpm/aperiam-repudiandae-commodi": "^1.0.0",
+    "@berufungirnpm/at-voluptate-iste": "^1.0.0",
+    "@berufungirnpm/consectetur-repudiandae-explicabo": "^1.0.0",
+    "@berufungirnpm/ducimus-minima-quos": "^1.0.0",
+    "@berufungirnpm/natus-nihil-sed": "^1.0.0",
+    "@berufungirnpm/suscipit-molestias-hic": "^1.0.0",
+    "@rtyughnnpm/molestiae-accusamus-minima-vitae": "^1.0.0"
   }
 }
